@@ -7,9 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/сүх бат" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="сүх бат" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/deprrous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deprrous" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/deprrous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deprrous" height="30" width="40" /></a>
+<a href="https://www.facebook.com/deprrous/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="сүх бат" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/deprrous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deprrous" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/deprrous/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deprrous" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
