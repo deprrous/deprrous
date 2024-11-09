@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm deprrous</h1>
-<h3 align="center">l have learned from super india guy</h3>
+<h3 align="center">I have learned all of this from a wonderful guy from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deprrous&label=Profile%20views&color=0e75b6&style=flat" alt="deprrous" /> </p>
 
